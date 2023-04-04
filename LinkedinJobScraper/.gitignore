@@ -1,0 +1,11 @@
+jobs.xlsx
+jobs_backup.xlsx
+chromedriver.exe
+config.env
+
+#folders
+.idea/
+__pycache__/
+chromedriver_win32/
+
+
